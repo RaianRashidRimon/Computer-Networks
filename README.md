@@ -2,7 +2,14 @@
 This repository explores core networking principles and protocols through practical implementations using Cisco Packet Tracer. It serves as a hands-on resource for learning network architecture, socket programming, data transmission, and more.
 
 ## 🌐 Implementations Include
+            
+      Simple Hub
 
+
+
+
+
+      
 ## 🎯 Purpose
 The goal of this repository is to help students and enthusiasts gain hands-on experience with computer networking concepts. The implementations are designed to be clear, structured, and easy to understand, making it a useful reference for learning the fundamentals of networking protocols, socket programming, and data transmission.
 
