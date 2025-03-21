@@ -11,6 +11,7 @@ This repository explores core networking principles and protocols through practi
       Routing Through Hub & Switch
       Packet Through Router
       Router Configuration Using CLI
+      VLAN Configuration with Switch and Router
       
 
 
