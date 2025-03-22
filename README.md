@@ -12,6 +12,7 @@ This repository explores core networking principles and protocols through practi
       Packet Through Router
       Router Configuration Using CLI
       VLAN Configuration with Switch and Router
+      IP Telephony
       
 
 
