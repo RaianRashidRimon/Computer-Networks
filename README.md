@@ -13,6 +13,7 @@ This repository explores core networking principles and protocols through practi
       Router Configuration Using CLI
       VLAN Configuration with Switch and Router
       IP Telephony
+      DNS Server Configuration
       
 
 
