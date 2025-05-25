@@ -3,25 +3,19 @@ This repository explores core networking principles and protocols through practi
 
 ## 🌐 Implementations Include
             
-      Simple Hub
-      Simple Router
-      Simple Switch
-      Implementation of Wireless LAN
-      DSL Modem in WAN
-      Routing Through Hub & Switch
-      Packet Through Router
-      Router Configuration Using CLI
-      VLAN Configuration with Switch and Router
-      IP Telephony
-      DNS Server Configuration
-      Implementation of OSPF
-      
-
-
-
-
-
-      
+    Simple Hub
+    Simple Router
+    Simple Switch
+    Implementation of Wireless LAN
+    DSL Modem in WAN
+    Routing Through Hub & Switch
+    Packet Through Router
+    Router Configuration Using CLI
+    VLAN Configuration with Switch and Router
+    IP Telephony
+    DNS Server Configuration
+    Implementation of OSPF
+           
 ## 🎯 Purpose
 The goal of this repository is to help students and enthusiasts gain hands-on experience with computer networking concepts. The implementations are designed to be clear, structured, and easy to understand, making it a useful reference for learning the fundamentals of networking protocols, socket programming, and data transmission.
 
